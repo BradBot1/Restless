@@ -1,0 +1,8 @@
+main: fun.bb1.spigot.restless.Loader
+name: Restless
+version: '1.0.0'
+description: No sleeping!
+api-version: 1.18
+api: "1.18"
+author: BradBot_1#2042
+website: https://github.com/BradBot1/Restless
